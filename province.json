@@ -1,0 +1,706 @@
+[
+  {
+    "ADM2_EN": "Ilocos Norte",
+    "ADM2_PCODE": "PH01028",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region I (Ilocos Region)",
+    "ADM1_PCODE": "PH01",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Ilocos Sur",
+    "ADM2_PCODE": "PH01029",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region I (Ilocos Region)",
+    "ADM1_PCODE": "PH01",
+    "": ""
+  },
+  {
+    "ADM2_EN": "La Union",
+    "ADM2_PCODE": "PH01033",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region I (Ilocos Region)",
+    "ADM1_PCODE": "PH01",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Pangasinan",
+    "ADM2_PCODE": "PH01055",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region I (Ilocos Region)",
+    "ADM1_PCODE": "PH01",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Batanes",
+    "ADM2_PCODE": "PH02009",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region II (Cagayan Valley)",
+    "ADM1_PCODE": "PH02",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Cagayan",
+    "ADM2_PCODE": "PH02015",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region II (Cagayan Valley)",
+    "ADM1_PCODE": "PH02",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Isabela",
+    "ADM2_PCODE": "PH02031",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region II (Cagayan Valley)",
+    "ADM1_PCODE": "PH02",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Nueva Vizcaya",
+    "ADM2_PCODE": "PH02050",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region II (Cagayan Valley)",
+    "ADM1_PCODE": "PH02",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Quirino",
+    "ADM2_PCODE": "PH02057",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region II (Cagayan Valley)",
+    "ADM1_PCODE": "PH02",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Bataan",
+    "ADM2_PCODE": "PH03008",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region III (Central Luzon)",
+    "ADM1_PCODE": "PH03",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Bulacan",
+    "ADM2_PCODE": "PH03014",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region III (Central Luzon)",
+    "ADM1_PCODE": "PH03",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Nueva Ecija",
+    "ADM2_PCODE": "PH03049",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region III (Central Luzon)",
+    "ADM1_PCODE": "PH03",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Pampanga",
+    "ADM2_PCODE": "PH03054",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region III (Central Luzon)",
+    "ADM1_PCODE": "PH03",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Tarlac",
+    "ADM2_PCODE": "PH03069",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region III (Central Luzon)",
+    "ADM1_PCODE": "PH03",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Zambales",
+    "ADM2_PCODE": "PH03071",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region III (Central Luzon)",
+    "ADM1_PCODE": "PH03",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Aurora",
+    "ADM2_PCODE": "PH03077",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region III (Central Luzon)",
+    "ADM1_PCODE": "PH03",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Batangas",
+    "ADM2_PCODE": "PH04010",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region IV-A (Calabarzon)",
+    "ADM1_PCODE": "PH04",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Cavite",
+    "ADM2_PCODE": "PH04021",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region IV-A (Calabarzon)",
+    "ADM1_PCODE": "PH04",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Laguna",
+    "ADM2_PCODE": "PH04034",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region IV-A (Calabarzon)",
+    "ADM1_PCODE": "PH04",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Quezon",
+    "ADM2_PCODE": "PH04056",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region IV-A (Calabarzon)",
+    "ADM1_PCODE": "PH04",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Rizal",
+    "ADM2_PCODE": "PH04058",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region IV-A (Calabarzon)",
+    "ADM1_PCODE": "PH04",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Albay",
+    "ADM2_PCODE": "PH05005",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region V (Bicol Region)",
+    "ADM1_PCODE": "PH05",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Camarines Norte",
+    "ADM2_PCODE": "PH05016",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region V (Bicol Region)",
+    "ADM1_PCODE": "PH05",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Camarines Sur",
+    "ADM2_PCODE": "PH05017",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region V (Bicol Region)",
+    "ADM1_PCODE": "PH05",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Catanduanes",
+    "ADM2_PCODE": "PH05020",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region V (Bicol Region)",
+    "ADM1_PCODE": "PH05",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Masbate",
+    "ADM2_PCODE": "PH05041",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region V (Bicol Region)",
+    "ADM1_PCODE": "PH05",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Sorsogon",
+    "ADM2_PCODE": "PH05062",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region V (Bicol Region)",
+    "ADM1_PCODE": "PH05",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Aklan",
+    "ADM2_PCODE": "PH06004",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VI (Western Visayas)",
+    "ADM1_PCODE": "PH06",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Antique",
+    "ADM2_PCODE": "PH06006",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VI (Western Visayas)",
+    "ADM1_PCODE": "PH06",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Capiz",
+    "ADM2_PCODE": "PH06019",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VI (Western Visayas)",
+    "ADM1_PCODE": "PH06",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Iloilo",
+    "ADM2_PCODE": "PH06030",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VI (Western Visayas)",
+    "ADM1_PCODE": "PH06",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Negros Occidental",
+    "ADM2_PCODE": "PH06045",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VI (Western Visayas)",
+    "ADM1_PCODE": "PH06",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Guimaras",
+    "ADM2_PCODE": "PH06079",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VI (Western Visayas)",
+    "ADM1_PCODE": "PH06",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Bohol",
+    "ADM2_PCODE": "PH07012",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VII (Central Visayas)",
+    "ADM1_PCODE": "PH07",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Cebu",
+    "ADM2_PCODE": "PH07022",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VII (Central Visayas)",
+    "ADM1_PCODE": "PH07",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Negros Oriental",
+    "ADM2_PCODE": "PH07046",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VII (Central Visayas)",
+    "ADM1_PCODE": "PH07",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Siquijor",
+    "ADM2_PCODE": "PH07061",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VII (Central Visayas)",
+    "ADM1_PCODE": "PH07",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Eastern Samar",
+    "ADM2_PCODE": "PH08026",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VIII (Eastern Visayas)",
+    "ADM1_PCODE": "PH08",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Leyte",
+    "ADM2_PCODE": "PH08037",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VIII (Eastern Visayas)",
+    "ADM1_PCODE": "PH08",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Northern Samar",
+    "ADM2_PCODE": "PH08048",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VIII (Eastern Visayas)",
+    "ADM1_PCODE": "PH08",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Samar (Western Samar)",
+    "ADM2_PCODE": "PH08060",
+    "ADM2ALT1EN": "Western Samar",
+    "ADM1_EN": "Region VIII (Eastern Visayas)",
+    "ADM1_PCODE": "PH08",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Southern Leyte",
+    "ADM2_PCODE": "PH08064",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VIII (Eastern Visayas)",
+    "ADM1_PCODE": "PH08",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Biliran",
+    "ADM2_PCODE": "PH08078",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region VIII (Eastern Visayas)",
+    "ADM1_PCODE": "PH08",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Zamboanga del Norte",
+    "ADM2_PCODE": "PH09072",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region IX (Zamboanga Peninsula)",
+    "ADM1_PCODE": "PH09",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Zamboanga del Sur",
+    "ADM2_PCODE": "PH09073",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region IX (Zamboanga Peninsula)",
+    "ADM1_PCODE": "PH09",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Zamboanga Sibugay",
+    "ADM2_PCODE": "PH09083",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region IX (Zamboanga Peninsula)",
+    "ADM1_PCODE": "PH09",
+    "": ""
+  },
+  {
+    "ADM2_EN": "City of Isabela (not a province)",
+    "ADM2_PCODE": "PH09097",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region IX (Zamboanga Peninsula)",
+    "ADM1_PCODE": "PH09",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Bukidnon",
+    "ADM2_PCODE": "PH10013",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region X (Northern Mindanao)",
+    "ADM1_PCODE": "PH10",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Camiguin",
+    "ADM2_PCODE": "PH10018",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region X (Northern Mindanao)",
+    "ADM1_PCODE": "PH10",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Lanao del Norte",
+    "ADM2_PCODE": "PH10035",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region X (Northern Mindanao)",
+    "ADM1_PCODE": "PH10",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Misamis Occidental",
+    "ADM2_PCODE": "PH10042",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region X (Northern Mindanao)",
+    "ADM1_PCODE": "PH10",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Misamis Oriental",
+    "ADM2_PCODE": "PH10043",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region X (Northern Mindanao)",
+    "ADM1_PCODE": "PH10",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Davao del Norte",
+    "ADM2_PCODE": "PH11023",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XI (Davao Region)",
+    "ADM1_PCODE": "PH11",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Davao del Sur",
+    "ADM2_PCODE": "PH11024",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XI (Davao Region)",
+    "ADM1_PCODE": "PH11",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Davao Oriental",
+    "ADM2_PCODE": "PH11025",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XI (Davao Region)",
+    "ADM1_PCODE": "PH11",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Davao de Oro (Compostela Valley)",
+    "ADM2_PCODE": "PH11082",
+    "ADM2ALT1EN": "Compostela Valley",
+    "ADM1_EN": "Region XI (Davao Region)",
+    "ADM1_PCODE": "PH11",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Davao Occidental",
+    "ADM2_PCODE": "PH11086",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XI (Davao Region)",
+    "ADM1_PCODE": "PH11",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Cotabato (North Cotabato)",
+    "ADM2_PCODE": "PH12047",
+    "ADM2ALT1EN": "North Cotabato",
+    "ADM1_EN": "Region XII (Soccsksargen)",
+    "ADM1_PCODE": "PH12",
+    "": ""
+  },
+  {
+    "ADM2_EN": "South Cotabato",
+    "ADM2_PCODE": "PH12063",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XII (Soccsksargen)",
+    "ADM1_PCODE": "PH12",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Sultan Kudarat",
+    "ADM2_PCODE": "PH12065",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XII (Soccsksargen)",
+    "ADM1_PCODE": "PH12",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Sarangani",
+    "ADM2_PCODE": "PH12080",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XII (Soccsksargen)",
+    "ADM1_PCODE": "PH12",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Metropolitan Manila First District",
+    "ADM2_PCODE": "PH13039",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "National Capital Region (NCR)",
+    "ADM1_PCODE": "PH13",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Metropolitan Manila Second District",
+    "ADM2_PCODE": "PH13074",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "National Capital Region (NCR)",
+    "ADM1_PCODE": "PH13",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Metropolitan Manila Third District",
+    "ADM2_PCODE": "PH13075",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "National Capital Region (NCR)",
+    "ADM1_PCODE": "PH13",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Metropolitan Manila Fourth District",
+    "ADM2_PCODE": "PH13076",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "National Capital Region (NCR)",
+    "ADM1_PCODE": "PH13",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Abra",
+    "ADM2_PCODE": "PH14001",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Cordillera Administrative Region (CAR)",
+    "ADM1_PCODE": "PH14",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Benguet",
+    "ADM2_PCODE": "PH14011",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Cordillera Administrative Region (CAR)",
+    "ADM1_PCODE": "PH14",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Ifugao",
+    "ADM2_PCODE": "PH14027",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Cordillera Administrative Region (CAR)",
+    "ADM1_PCODE": "PH14",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Kalinga",
+    "ADM2_PCODE": "PH14032",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Cordillera Administrative Region (CAR)",
+    "ADM1_PCODE": "PH14",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Mountain Province",
+    "ADM2_PCODE": "PH14044",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Cordillera Administrative Region (CAR)",
+    "ADM1_PCODE": "PH14",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Apayao",
+    "ADM2_PCODE": "PH14081",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Cordillera Administrative Region (CAR)",
+    "ADM1_PCODE": "PH14",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Agusan del Norte",
+    "ADM2_PCODE": "PH16002",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XIII (Caraga)",
+    "ADM1_PCODE": "PH16",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Agusan del Sur",
+    "ADM2_PCODE": "PH16003",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XIII (Caraga)",
+    "ADM1_PCODE": "PH16",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Surigao del Norte",
+    "ADM2_PCODE": "PH16067",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XIII (Caraga)",
+    "ADM1_PCODE": "PH16",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Surigao del Sur",
+    "ADM2_PCODE": "PH16068",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XIII (Caraga)",
+    "ADM1_PCODE": "PH16",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Dinagat Islands",
+    "ADM2_PCODE": "PH16085",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Region XIII (Caraga)",
+    "ADM1_PCODE": "PH16",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Marinduque",
+    "ADM2_PCODE": "PH17040",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Mimaropa Region",
+    "ADM1_PCODE": "PH17",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Occidental Mindoro",
+    "ADM2_PCODE": "PH17051",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Mimaropa Region",
+    "ADM1_PCODE": "PH17",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Oriental Mindoro",
+    "ADM2_PCODE": "PH17052",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Mimaropa Region",
+    "ADM1_PCODE": "PH17",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Palawan",
+    "ADM2_PCODE": "PH17053",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Mimaropa Region",
+    "ADM1_PCODE": "PH17",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Romblon",
+    "ADM2_PCODE": "PH17059",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Mimaropa Region",
+    "ADM1_PCODE": "PH17",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Basilan",
+    "ADM2_PCODE": "PH19007",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "ADM1_PCODE": "PH19",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Lanao del Sur",
+    "ADM2_PCODE": "PH19036",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "ADM1_PCODE": "PH19",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Sulu",
+    "ADM2_PCODE": "PH19066",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "ADM1_PCODE": "PH19",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Tawi-Tawi",
+    "ADM2_PCODE": "PH19070",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "ADM1_PCODE": "PH19",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Maguindanao del Norte",
+    "ADM2_PCODE": "PH19087",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "ADM1_PCODE": "PH19",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Maguindanao del Sur",
+    "ADM2_PCODE": "PH19088",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "ADM1_PCODE": "PH19",
+    "": ""
+  },
+  {
+    "ADM2_EN": "Special Geographic Area",
+    "ADM2_PCODE": "PH19099",
+    "ADM2ALT1EN": "",
+    "ADM1_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "ADM1_PCODE": "PH19",
+    "": ""
+  }
+]
