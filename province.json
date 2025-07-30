@@ -1,0 +1,618 @@
+[
+  {
+    "PROVINCE_EN": "Ilocos Norte",
+    "PROVINCE_PCODE": "PH01028",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region I (Ilocos Region)",
+    "REGION_PCODE": "PH01"
+  },
+  {
+    "PROVINCE_EN": "Ilocos Sur",
+    "PROVINCE_PCODE": "PH01029",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region I (Ilocos Region)",
+    "REGION_PCODE": "PH01"
+  },
+  {
+    "PROVINCE_EN": "La Union",
+    "PROVINCE_PCODE": "PH01033",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region I (Ilocos Region)",
+    "REGION_PCODE": "PH01"
+  },
+  {
+    "PROVINCE_EN": "Pangasinan",
+    "PROVINCE_PCODE": "PH01055",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region I (Ilocos Region)",
+    "REGION_PCODE": "PH01"
+  },
+  {
+    "PROVINCE_EN": "Batanes",
+    "PROVINCE_PCODE": "PH02009",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region II (Cagayan Valley)",
+    "REGION_PCODE": "PH02"
+  },
+  {
+    "PROVINCE_EN": "Cagayan",
+    "PROVINCE_PCODE": "PH02015",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region II (Cagayan Valley)",
+    "REGION_PCODE": "PH02"
+  },
+  {
+    "PROVINCE_EN": "Isabela",
+    "PROVINCE_PCODE": "PH02031",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region II (Cagayan Valley)",
+    "REGION_PCODE": "PH02"
+  },
+  {
+    "PROVINCE_EN": "Nueva Vizcaya",
+    "PROVINCE_PCODE": "PH02050",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region II (Cagayan Valley)",
+    "REGION_PCODE": "PH02"
+  },
+  {
+    "PROVINCE_EN": "Quirino",
+    "PROVINCE_PCODE": "PH02057",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region II (Cagayan Valley)",
+    "REGION_PCODE": "PH02"
+  },
+  {
+    "PROVINCE_EN": "Bataan",
+    "PROVINCE_PCODE": "PH03008",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region III (Central Luzon)",
+    "REGION_PCODE": "PH03"
+  },
+  {
+    "PROVINCE_EN": "Bulacan",
+    "PROVINCE_PCODE": "PH03014",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region III (Central Luzon)",
+    "REGION_PCODE": "PH03"
+  },
+  {
+    "PROVINCE_EN": "Nueva Ecija",
+    "PROVINCE_PCODE": "PH03049",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region III (Central Luzon)",
+    "REGION_PCODE": "PH03"
+  },
+  {
+    "PROVINCE_EN": "Pampanga",
+    "PROVINCE_PCODE": "PH03054",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region III (Central Luzon)",
+    "REGION_PCODE": "PH03"
+  },
+  {
+    "PROVINCE_EN": "Tarlac",
+    "PROVINCE_PCODE": "PH03069",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region III (Central Luzon)",
+    "REGION_PCODE": "PH03"
+  },
+  {
+    "PROVINCE_EN": "Zambales",
+    "PROVINCE_PCODE": "PH03071",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region III (Central Luzon)",
+    "REGION_PCODE": "PH03"
+  },
+  {
+    "PROVINCE_EN": "Aurora",
+    "PROVINCE_PCODE": "PH03077",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region III (Central Luzon)",
+    "REGION_PCODE": "PH03"
+  },
+  {
+    "PROVINCE_EN": "Batangas",
+    "PROVINCE_PCODE": "PH04010",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region IV-A (Calabarzon)",
+    "REGION_PCODE": "PH04"
+  },
+  {
+    "PROVINCE_EN": "Cavite",
+    "PROVINCE_PCODE": "PH04021",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region IV-A (Calabarzon)",
+    "REGION_PCODE": "PH04"
+  },
+  {
+    "PROVINCE_EN": "Laguna",
+    "PROVINCE_PCODE": "PH04034",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region IV-A (Calabarzon)",
+    "REGION_PCODE": "PH04"
+  },
+  {
+    "PROVINCE_EN": "Quezon",
+    "PROVINCE_PCODE": "PH04056",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region IV-A (Calabarzon)",
+    "REGION_PCODE": "PH04"
+  },
+  {
+    "PROVINCE_EN": "Rizal",
+    "PROVINCE_PCODE": "PH04058",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region IV-A (Calabarzon)",
+    "REGION_PCODE": "PH04"
+  },
+  {
+    "PROVINCE_EN": "Albay",
+    "PROVINCE_PCODE": "PH05005",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region V (Bicol Region)",
+    "REGION_PCODE": "PH05"
+  },
+  {
+    "PROVINCE_EN": "Camarines Norte",
+    "PROVINCE_PCODE": "PH05016",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region V (Bicol Region)",
+    "REGION_PCODE": "PH05"
+  },
+  {
+    "PROVINCE_EN": "Camarines Sur",
+    "PROVINCE_PCODE": "PH05017",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region V (Bicol Region)",
+    "REGION_PCODE": "PH05"
+  },
+  {
+    "PROVINCE_EN": "Catanduanes",
+    "PROVINCE_PCODE": "PH05020",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region V (Bicol Region)",
+    "REGION_PCODE": "PH05"
+  },
+  {
+    "PROVINCE_EN": "Masbate",
+    "PROVINCE_PCODE": "PH05041",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region V (Bicol Region)",
+    "REGION_PCODE": "PH05"
+  },
+  {
+    "PROVINCE_EN": "Sorsogon",
+    "PROVINCE_PCODE": "PH05062",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region V (Bicol Region)",
+    "REGION_PCODE": "PH05"
+  },
+  {
+    "PROVINCE_EN": "Aklan",
+    "PROVINCE_PCODE": "PH06004",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VI (Western Visayas)",
+    "REGION_PCODE": "PH06"
+  },
+  {
+    "PROVINCE_EN": "Antique",
+    "PROVINCE_PCODE": "PH06006",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VI (Western Visayas)",
+    "REGION_PCODE": "PH06"
+  },
+  {
+    "PROVINCE_EN": "Capiz",
+    "PROVINCE_PCODE": "PH06019",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VI (Western Visayas)",
+    "REGION_PCODE": "PH06"
+  },
+  {
+    "PROVINCE_EN": "Iloilo",
+    "PROVINCE_PCODE": "PH06030",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VI (Western Visayas)",
+    "REGION_PCODE": "PH06"
+  },
+  {
+    "PROVINCE_EN": "Negros Occidental",
+    "PROVINCE_PCODE": "PH06045",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VI (Western Visayas)",
+    "REGION_PCODE": "PH06"
+  },
+  {
+    "PROVINCE_EN": "Guimaras",
+    "PROVINCE_PCODE": "PH06079",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VI (Western Visayas)",
+    "REGION_PCODE": "PH06"
+  },
+  {
+    "PROVINCE_EN": "Bohol",
+    "PROVINCE_PCODE": "PH07012",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VII (Central Visayas)",
+    "REGION_PCODE": "PH07"
+  },
+  {
+    "PROVINCE_EN": "Cebu",
+    "PROVINCE_PCODE": "PH07022",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VII (Central Visayas)",
+    "REGION_PCODE": "PH07"
+  },
+  {
+    "PROVINCE_EN": "Negros Oriental",
+    "PROVINCE_PCODE": "PH07046",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VII (Central Visayas)",
+    "REGION_PCODE": "PH07"
+  },
+  {
+    "PROVINCE_EN": "Siquijor",
+    "PROVINCE_PCODE": "PH07061",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VII (Central Visayas)",
+    "REGION_PCODE": "PH07"
+  },
+  {
+    "PROVINCE_EN": "Eastern Samar",
+    "PROVINCE_PCODE": "PH08026",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VIII (Eastern Visayas)",
+    "REGION_PCODE": "PH08"
+  },
+  {
+    "PROVINCE_EN": "Leyte",
+    "PROVINCE_PCODE": "PH08037",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VIII (Eastern Visayas)",
+    "REGION_PCODE": "PH08"
+  },
+  {
+    "PROVINCE_EN": "Northern Samar",
+    "PROVINCE_PCODE": "PH08048",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VIII (Eastern Visayas)",
+    "REGION_PCODE": "PH08"
+  },
+  {
+    "PROVINCE_EN": "Samar (Western Samar)",
+    "PROVINCE_PCODE": "PH08060",
+    "PROVINCE_ALTNAME": "Western Samar",
+    "REGION_EN": "Region VIII (Eastern Visayas)",
+    "REGION_PCODE": "PH08"
+  },
+  {
+    "PROVINCE_EN": "Southern Leyte",
+    "PROVINCE_PCODE": "PH08064",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VIII (Eastern Visayas)",
+    "REGION_PCODE": "PH08"
+  },
+  {
+    "PROVINCE_EN": "Biliran",
+    "PROVINCE_PCODE": "PH08078",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region VIII (Eastern Visayas)",
+    "REGION_PCODE": "PH08"
+  },
+  {
+    "PROVINCE_EN": "Zamboanga del Norte",
+    "PROVINCE_PCODE": "PH09072",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region IX (Zamboanga Peninsula)",
+    "REGION_PCODE": "PH09"
+  },
+  {
+    "PROVINCE_EN": "Zamboanga del Sur",
+    "PROVINCE_PCODE": "PH09073",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region IX (Zamboanga Peninsula)",
+    "REGION_PCODE": "PH09"
+  },
+  {
+    "PROVINCE_EN": "Zamboanga Sibugay",
+    "PROVINCE_PCODE": "PH09083",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region IX (Zamboanga Peninsula)",
+    "REGION_PCODE": "PH09"
+  },
+  {
+    "PROVINCE_EN": "City of Isabela (not a province)",
+    "PROVINCE_PCODE": "PH09097",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region IX (Zamboanga Peninsula)",
+    "REGION_PCODE": "PH09"
+  },
+  {
+    "PROVINCE_EN": "Bukidnon",
+    "PROVINCE_PCODE": "PH10013",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region X (Northern Mindanao)",
+    "REGION_PCODE": "PH10"
+  },
+  {
+    "PROVINCE_EN": "Camiguin",
+    "PROVINCE_PCODE": "PH10018",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region X (Northern Mindanao)",
+    "REGION_PCODE": "PH10"
+  },
+  {
+    "PROVINCE_EN": "Lanao del Norte",
+    "PROVINCE_PCODE": "PH10035",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region X (Northern Mindanao)",
+    "REGION_PCODE": "PH10"
+  },
+  {
+    "PROVINCE_EN": "Misamis Occidental",
+    "PROVINCE_PCODE": "PH10042",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region X (Northern Mindanao)",
+    "REGION_PCODE": "PH10"
+  },
+  {
+    "PROVINCE_EN": "Misamis Oriental",
+    "PROVINCE_PCODE": "PH10043",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region X (Northern Mindanao)",
+    "REGION_PCODE": "PH10"
+  },
+  {
+    "PROVINCE_EN": "Davao del Norte",
+    "PROVINCE_PCODE": "PH11023",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XI (Davao Region)",
+    "REGION_PCODE": "PH11"
+  },
+  {
+    "PROVINCE_EN": "Davao del Sur",
+    "PROVINCE_PCODE": "PH11024",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XI (Davao Region)",
+    "REGION_PCODE": "PH11"
+  },
+  {
+    "PROVINCE_EN": "Davao Oriental",
+    "PROVINCE_PCODE": "PH11025",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XI (Davao Region)",
+    "REGION_PCODE": "PH11"
+  },
+  {
+    "PROVINCE_EN": "Davao de Oro (Compostela Valley)",
+    "PROVINCE_PCODE": "PH11082",
+    "PROVINCE_ALTNAME": "Compostela Valley",
+    "REGION_EN": "Region XI (Davao Region)",
+    "REGION_PCODE": "PH11"
+  },
+  {
+    "PROVINCE_EN": "Davao Occidental",
+    "PROVINCE_PCODE": "PH11086",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XI (Davao Region)",
+    "REGION_PCODE": "PH11"
+  },
+  {
+    "PROVINCE_EN": "Cotabato (North Cotabato)",
+    "PROVINCE_PCODE": "PH12047",
+    "PROVINCE_ALTNAME": "North Cotabato",
+    "REGION_EN": "Region XII (Soccsksargen)",
+    "REGION_PCODE": "PH12"
+  },
+  {
+    "PROVINCE_EN": "South Cotabato",
+    "PROVINCE_PCODE": "PH12063",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XII (Soccsksargen)",
+    "REGION_PCODE": "PH12"
+  },
+  {
+    "PROVINCE_EN": "Sultan Kudarat",
+    "PROVINCE_PCODE": "PH12065",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XII (Soccsksargen)",
+    "REGION_PCODE": "PH12"
+  },
+  {
+    "PROVINCE_EN": "Sarangani",
+    "PROVINCE_PCODE": "PH12080",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XII (Soccsksargen)",
+    "REGION_PCODE": "PH12"
+  },
+  {
+    "PROVINCE_EN": "Metropolitan Manila First District",
+    "PROVINCE_PCODE": "PH13039",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "National Capital Region (NCR)",
+    "REGION_PCODE": "PH13"
+  },
+  {
+    "PROVINCE_EN": "Metropolitan Manila Second District",
+    "PROVINCE_PCODE": "PH13074",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "National Capital Region (NCR)",
+    "REGION_PCODE": "PH13"
+  },
+  {
+    "PROVINCE_EN": "Metropolitan Manila Third District",
+    "PROVINCE_PCODE": "PH13075",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "National Capital Region (NCR)",
+    "REGION_PCODE": "PH13"
+  },
+  {
+    "PROVINCE_EN": "Metropolitan Manila Fourth District",
+    "PROVINCE_PCODE": "PH13076",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "National Capital Region (NCR)",
+    "REGION_PCODE": "PH13"
+  },
+  {
+    "PROVINCE_EN": "Abra",
+    "PROVINCE_PCODE": "PH14001",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Cordillera Administrative Region (CAR)",
+    "REGION_PCODE": "PH14"
+  },
+  {
+    "PROVINCE_EN": "Benguet",
+    "PROVINCE_PCODE": "PH14011",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Cordillera Administrative Region (CAR)",
+    "REGION_PCODE": "PH14"
+  },
+  {
+    "PROVINCE_EN": "Ifugao",
+    "PROVINCE_PCODE": "PH14027",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Cordillera Administrative Region (CAR)",
+    "REGION_PCODE": "PH14"
+  },
+  {
+    "PROVINCE_EN": "Kalinga",
+    "PROVINCE_PCODE": "PH14032",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Cordillera Administrative Region (CAR)",
+    "REGION_PCODE": "PH14"
+  },
+  {
+    "PROVINCE_EN": "Mountain Province",
+    "PROVINCE_PCODE": "PH14044",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Cordillera Administrative Region (CAR)",
+    "REGION_PCODE": "PH14"
+  },
+  {
+    "PROVINCE_EN": "Apayao",
+    "PROVINCE_PCODE": "PH14081",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Cordillera Administrative Region (CAR)",
+    "REGION_PCODE": "PH14"
+  },
+  {
+    "PROVINCE_EN": "Agusan del Norte",
+    "PROVINCE_PCODE": "PH16002",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XIII (Caraga)",
+    "REGION_PCODE": "PH16"
+  },
+  {
+    "PROVINCE_EN": "Agusan del Sur",
+    "PROVINCE_PCODE": "PH16003",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XIII (Caraga)",
+    "REGION_PCODE": "PH16"
+  },
+  {
+    "PROVINCE_EN": "Surigao del Norte",
+    "PROVINCE_PCODE": "PH16067",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XIII (Caraga)",
+    "REGION_PCODE": "PH16"
+  },
+  {
+    "PROVINCE_EN": "Surigao del Sur",
+    "PROVINCE_PCODE": "PH16068",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XIII (Caraga)",
+    "REGION_PCODE": "PH16"
+  },
+  {
+    "PROVINCE_EN": "Dinagat Islands",
+    "PROVINCE_PCODE": "PH16085",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Region XIII (Caraga)",
+    "REGION_PCODE": "PH16"
+  },
+  {
+    "PROVINCE_EN": "Marinduque",
+    "PROVINCE_PCODE": "PH17040",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Mimaropa Region",
+    "REGION_PCODE": "PH17"
+  },
+  {
+    "PROVINCE_EN": "Occidental Mindoro",
+    "PROVINCE_PCODE": "PH17051",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Mimaropa Region",
+    "REGION_PCODE": "PH17"
+  },
+  {
+    "PROVINCE_EN": "Oriental Mindoro",
+    "PROVINCE_PCODE": "PH17052",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Mimaropa Region",
+    "REGION_PCODE": "PH17"
+  },
+  {
+    "PROVINCE_EN": "Palawan",
+    "PROVINCE_PCODE": "PH17053",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Mimaropa Region",
+    "REGION_PCODE": "PH17"
+  },
+  {
+    "PROVINCE_EN": "Romblon",
+    "PROVINCE_PCODE": "PH17059",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Mimaropa Region",
+    "REGION_PCODE": "PH17"
+  },
+  {
+    "PROVINCE_EN": "Basilan",
+    "PROVINCE_PCODE": "PH19007",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "REGION_PCODE": "PH19"
+  },
+  {
+    "PROVINCE_EN": "Lanao del Sur",
+    "PROVINCE_PCODE": "PH19036",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "REGION_PCODE": "PH19"
+  },
+  {
+    "PROVINCE_EN": "Sulu",
+    "PROVINCE_PCODE": "PH19066",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "REGION_PCODE": "PH19"
+  },
+  {
+    "PROVINCE_EN": "Tawi-Tawi",
+    "PROVINCE_PCODE": "PH19070",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "REGION_PCODE": "PH19"
+  },
+  {
+    "PROVINCE_EN": "Maguindanao del Norte",
+    "PROVINCE_PCODE": "PH19087",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "REGION_PCODE": "PH19"
+  },
+  {
+    "PROVINCE_EN": "Maguindanao del Sur",
+    "PROVINCE_PCODE": "PH19088",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "REGION_PCODE": "PH19"
+  },
+  {
+    "PROVINCE_EN": "Special Geographic Area",
+    "PROVINCE_PCODE": "PH19099",
+    "PROVINCE_ALTNAME": "",
+    "REGION_EN": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "REGION_PCODE": "PH19"
+  }
+]

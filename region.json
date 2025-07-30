@@ -1,0 +1,121 @@
+[
+  {
+    "REGION_NAME": "Region I (Ilocos Region)",
+    "REGION_ALTNAME": "Ilocos Region",
+    "REGION_PCODE": "PH01",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region II (Cagayan Valley)",
+    "REGION_ALTNAME": "Cagayan Valley",
+    "REGION_PCODE": "PH02",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region III (Central Luzon)",
+    "REGION_ALTNAME": "Central Luzon",
+    "REGION_PCODE": "PH03",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region IV-A (Calabarzon)",
+    "REGION_ALTNAME": "Calabarzon",
+    "REGION_PCODE": "PH04",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region V (Bicol Region)",
+    "REGION_ALTNAME": "Bicol Region",
+    "REGION_PCODE": "PH05",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region VI (Western Visayas)",
+    "REGION_ALTNAME": "Western Visayas",
+    "REGION_PCODE": "PH06",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region VII (Central Visayas)",
+    "REGION_ALTNAME": "Central Visayas",
+    "REGION_PCODE": "PH07",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region VIII (Eastern Visayas)",
+    "REGION_ALTNAME": "Eastern Visayas",
+    "REGION_PCODE": "PH08",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region IX (Zamboanga Peninsula)",
+    "REGION_ALTNAME": "Zamboanga Peninsula",
+    "REGION_PCODE": "PH09",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region X (Northern Mindanao)",
+    "REGION_ALTNAME": "Northern Mindanao",
+    "REGION_PCODE": "PH10",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region XI (Davao Region)",
+    "REGION_ALTNAME": "Davao Region",
+    "REGION_PCODE": "PH11",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region XII (Soccsksargen)",
+    "REGION_ALTNAME": "Soccsksargen",
+    "REGION_PCODE": "PH12",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "National Capital Region (NCR)",
+    "REGION_ALTNAME": "NCR",
+    "REGION_PCODE": "PH13",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Cordillera Administrative Region (CAR)",
+    "REGION_ALTNAME": "CAR",
+    "REGION_PCODE": "PH14",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Region XIII (Caraga)",
+    "REGION_ALTNAME": "Caraga",
+    "REGION_PCODE": "PH16",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Mimaropa Region",
+    "REGION_ALTNAME": "",
+    "REGION_PCODE": "PH17",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  },
+  {
+    "REGION_NAME": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "REGION_ALTNAME": "BARMM",
+    "REGION_PCODE": "PH19",
+    "NATION_NAME": "Philippines",
+    "NATION_PCODE": "PH"
+  }
+]
